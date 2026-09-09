@@ -22,16 +22,32 @@ We started with the defects.
 
 ---
 
+## What We Stand For
+
+- **Evidence-gated** — Guidance is grounded in documentation and established criteria, never speculation.
+- **Zero-trust by design** — Security and privacy are foundational, not features.
+- **Explainable** — Users and authorized professionals can understand why recommendations are made.
+- **Human-centered** — The system supports accredited professionals and decision-makers. It does not replace them.
+- **Mission-first** — Built by people who prioritize integrity, discipline, and service to those who served.
+
+Public readiness statements, not certifications: SAM.gov registered · designed for Azure Government · FedRAMP alignment in progress · HIPAA-ready controls described as readiness, not covered-entity certification.
+
+---
+
+## Who It’s For
+
+- Veterans navigating disability claims and benefits processes
+- Tribal members seeking clearer pathways through complex systems
+- Caregivers and family members supporting loved ones
+- Organizations exploring responsible, secure decision-support tools for veteran and Tribal communities
+
+It is also built for VSOs, accredited representatives, and government partners who need first-pass speed without sacrificing accuracy.
+
+---
+
 ## What this is
 
-Vet Battle Buddy™ is the evidence operating system for people who need first-pass speed without sacrificing accuracy.
-
-It is built for:
-
-- **Veterans and families** who need to see what evidence they hold — and what is still missing
-- **VSOs and accredited representatives** who need intake that starts complete
-- **Government and enterprise partners** who need higher evidence quality entering adjudication
-- **Tribal partners** who need evidence readiness that respects Tribal sovereignty
+Vet Battle Buddy™ is the evidence operating system for people who need decision-ready evidence.
 
 The public measure of the work is **Evidence First-Pass Yield™**: fewer avoidable evidence defects before a file becomes workload.
 
@@ -56,20 +72,6 @@ We do not replace Tribal programs or claim preference we do not have.
 
 ---
 
-## Principles we will not compromise
-
-- **Evidence-gated** — guidance is grounded in documentation and established criteria, never speculation
-- **Human command** — authorized people remain accountable for every official decision
-- **Explainable** — outputs must be reviewable; unsupported conclusions are not the product
-- **Security first** — privacy, access control, and auditability are foundational, not add-ons
-- **Honest compliance language** — alignment and readiness are not the same as certification
-- **Tribal respect** — sovereignty is not a marketing line
-- **Integrity** — built with veterans, not merely for veterans
-
-Public readiness statements, not certifications: SAM.gov registered · designed for Azure Government · FedRAMP alignment in progress · HIPAA-ready controls described as readiness, not covered-entity certification.
-
----
-
 ## Who leads the work
 
 - **Leigh Ann Bryson** — Co-founder · Lean Six Sigma Master Black Belt · owns the operating methodology
@@ -79,35 +81,43 @@ Public readiness statements, not certifications: SAM.gov registered · designed 
 
 ---
 
-## What this GitHub organization is
+## What This Repository Is
 
-This public organization exists so veterans, partners, and reviewers can find the mission in one place.
+This is the public presence for VetBattleBuddy.
 
-This repository is public-facing documentation only.
+It exists to communicate our mission, principles, and interest in responsible collaboration.
 
-It does **not** contain:
+It does **not** contain production source code, internal architecture, proprietary methods, training data, model weights, or operational details.
 
-- Production source code
-- Internal architecture or system design
-- Proprietary methods, playbooks, or decision logic
-- Training data, prompts, or model artifacts
+This repository also does not contain:
+
+- System design or implementation details
+- Proprietary playbooks or decision logic
+- Prompts or model artifacts
 - Operational runbooks, credentials, or environment details
 
 The product is a redesigned evidence process. Implementation remains private.
 
 ---
 
-## Intellectual property
+## Intellectual Property & Use
 
-Vet Battle Buddy™, Evidence First-Pass Yield™, Evidence Gate, related marks, concepts, designs, and processes are the exclusive property of **Vet Battle Buddy LLC**.
+All concepts, designs, processes, branding, and intellectual property associated with VetBattleBuddy are the exclusive property of Vet Battle Buddy LLC.
 
-No license is granted to copy, reproduce, reverse-engineer, or build a competing system from this page, the public website, or any other public materials.
+Vet Battle Buddy™, Evidence First-Pass Yield™, Evidence Gate, related marks, concepts, designs, and processes are included in that ownership.
+
+No license is granted to use, reproduce, reverse-engineer, or build upon any part of this work without prior written permission.
 
 Unauthorized use is prohibited.
 
 ---
 
-## Start here
+## Contact & Pilot Interest
+
+For pilot discussions, partnership inquiries, or technical briefings:
+
+**Website:** [https://www.vetbattlebuddy.ai](https://www.vetbattlebuddy.ai)  
+**Contact:** [thtobey@vetbattlebuddy.ai](mailto:thtobey@vetbattlebuddy.ai)
 
 | Audience | Next step |
 | --- | --- |
@@ -116,8 +126,6 @@ Unauthorized use is prohibited.
 | Government and procurement | [Procurement](https://www.vetbattlebuddy.ai/procurement) |
 | Tribal partners | [Tribal path](https://www.vetbattlebuddy.ai/tribal) |
 | Investors | [Investor relations](https://www.vetbattlebuddy.ai/investors) |
-
-**Contact:** [thtobey@vetbattlebuddy.ai](mailto:thtobey@vetbattlebuddy.ai)
 
 ---
 
