@@ -1,57 +1,123 @@
-# VetBattleBuddy
+# Vet Battle Buddy™
 
-**Evidence-gated decision support for Veterans and Tribal members.**
+**Evidence First. Decisions Faster. Veterans Better Served.**
 
-VetBattleBuddy is a mission-driven platform built to help U.S. Veterans and Tribal members navigate complex claims, care coordination, and support systems with greater clarity, dignity, and trust.
+[vetbattlebuddy.ai](https://www.vetbattlebuddy.ai) · Evidence First. From Oath Forward.™
 
-We focus on reducing friction in high-stakes processes while keeping humans firmly in control of every decision.
-
----
-
-### What We Stand For
-
-- **Evidence-gated** — Guidance is grounded in documentation and established criteria, never speculation.
-- **Zero-trust by design** — Security and privacy are foundational, not features.
-- **Explainable** — Users and authorized professionals can understand why recommendations are made.
-- **Human-centered** — The system supports accredited professionals and decision-makers. It does not replace them.
-- **Mission-first** — Built by people who prioritize integrity, discipline, and service to those who served.
+> If you are in crisis, call or text [988](tel:988), then press 1 — or chat at [VeteransCrisisLine.net](https://www.veteranscrisisline.net/).  
+> This organization and this platform are not a crisis line.
 
 ---
 
-### Who It’s For
+## A Promise for a Promise
 
-- Veterans navigating disability claims and benefits processes  
-- Tribal members seeking clearer pathways through complex systems  
-- Caregivers and family members supporting loved ones  
-- Organizations exploring responsible, secure decision-support tools for veteran and Tribal communities  
+Vet Battle Buddy is an evidence-readiness company.
 
----
+We help veterans, Tribal partners, VSOs, and government agencies get decision-ready evidence into the claims ecosystem — so a claim can be decided the first time, without replacing the rater, the representative, or the agency.
 
-### What This Repository Is
+We did not start with AI.  
+We started with the defects.
 
-This is the public presence for VetBattleBuddy.  
-
-It exists to communicate our mission, principles, and interest in responsible collaboration.  
-
-It does **not** contain production source code, internal architecture, proprietary methods, training data, model weights, or operational details.
+**Evidence before conclusions. Trust before intelligence. Humans stay in command.**
 
 ---
 
-### Intellectual Property & Use
+## What this is
 
-All concepts, designs, processes, branding, and intellectual property associated with VetBattleBuddy are the exclusive property of Vet Battle Buddy LLC.
+Vet Battle Buddy™ is the evidence operating system for people who need first-pass speed without sacrificing accuracy.
 
-No license is granted to use, reproduce, reverse-engineer, or build upon any part of this work without prior written permission.
+It is built for:
+
+- **Veterans and families** who need to see what evidence they hold — and what is still missing
+- **VSOs and accredited representatives** who need intake that starts complete
+- **Government and enterprise partners** who need higher evidence quality entering adjudication
+- **Tribal partners** who need evidence readiness that respects Tribal sovereignty
+
+The public measure of the work is **Evidence First-Pass Yield™**: fewer avoidable evidence defects before a file becomes workload.
+
+You are not buying a chatbot.  
+You are buying decision-ready evidence, with a human still accountable for the official decision.
+
+---
+
+## What this is not
+
+Vet Battle Buddy is **not**:
+
+- A claims filing service
+- A substitute for an accredited VSO, claims agent, or attorney
+- A chatbot that guesses, invents records, or assigns ratings
+- A replacement for the adjudicator, clinician, or agency
+- A crisis line
+
+We do not file, prosecute, or rate claims.  
+We do not guarantee a rating, award, or timeline.  
+We do not replace Tribal programs or claim preference we do not have.
+
+---
+
+## Principles we will not compromise
+
+- **Evidence-gated** — guidance is grounded in documentation and established criteria, never speculation
+- **Human command** — authorized people remain accountable for every official decision
+- **Explainable** — outputs must be reviewable; unsupported conclusions are not the product
+- **Security first** — privacy, access control, and auditability are foundational, not add-ons
+- **Honest compliance language** — alignment and readiness are not the same as certification
+- **Tribal respect** — sovereignty is not a marketing line
+- **Integrity** — built with veterans, not merely for veterans
+
+Public readiness statements, not certifications: SAM.gov registered · designed for Azure Government · FedRAMP alignment in progress · HIPAA-ready controls described as readiness, not covered-entity certification.
+
+---
+
+## Who leads the work
+
+- **Leigh Ann Bryson** — Co-founder · Lean Six Sigma Master Black Belt · owns the operating methodology
+- **Tanner Tobey** — Co-founder · Engineering, development, and security · CISSP
+- **Tom Asbury** — Voice of the Veteran
+- **Jacob Stevens** — Chief Operating Officer
+
+---
+
+## What this GitHub organization is
+
+This public organization exists so veterans, partners, and reviewers can find the mission in one place.
+
+This repository is public-facing documentation only.
+
+It does **not** contain:
+
+- Production source code
+- Internal architecture or system design
+- Proprietary methods, playbooks, or decision logic
+- Training data, prompts, or model artifacts
+- Operational runbooks, credentials, or environment details
+
+The product is a redesigned evidence process. Implementation remains private.
+
+---
+
+## Intellectual property
+
+Vet Battle Buddy™, Evidence First-Pass Yield™, Evidence Gate, related marks, concepts, designs, and processes are the exclusive property of **Vet Battle Buddy LLC**.
+
+No license is granted to copy, reproduce, reverse-engineer, or build a competing system from this page, the public website, or any other public materials.
 
 Unauthorized use is prohibited.
 
 ---
 
-### Contact & Pilot Interest
+## Start here
 
-For pilot discussions, partnership inquiries, or technical briefings:
+| Audience | Next step |
+| --- | --- |
+| Veterans and families | [vetbattlebuddy.ai](https://www.vetbattlebuddy.ai) |
+| VSOs and accredited representatives | [VSO path](https://www.vetbattlebuddy.ai/vso) |
+| Government and procurement | [Procurement](https://www.vetbattlebuddy.ai/procurement) |
+| Tribal partners | [Tribal path](https://www.vetbattlebuddy.ai/tribal) |
+| Investors | [Investor relations](https://www.vetbattlebuddy.ai/investors) |
 
-**Website:** [https://www.vetbattlebuddy.ai](https://www.vetbattlebuddy.ai)
+**Contact:** [thtobey@vetbattlebuddy.ai](mailto:thtobey@vetbattlebuddy.ai)
 
 ---
 
