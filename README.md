@@ -119,6 +119,9 @@ For pilot discussions, partnership inquiries, or technical briefings:
 **Website:** [https://www.vetbattlebuddy.ai](https://www.vetbattlebuddy.ai)  
 **Contact:** [thtobey@vetbattlebuddy.ai](mailto:thtobey@vetbattlebuddy.ai)
 
+<img width="800" height="800" alt="blackblackvbb" src="https://github.com/user-attachments/assets/bf2b5a9a-c186-499c-b5e8-83d7c8380bbe" />
+
+
 | Audience | Next step |
 | --- | --- |
 | Veterans and families | [vetbattlebuddy.ai](https://www.vetbattlebuddy.ai) |
@@ -131,3 +134,4 @@ For pilot discussions, partnership inquiries, or technical briefings:
 
 **Vet Battle Buddy LLC**  
 Building systems worthy of the people they serve.
+
